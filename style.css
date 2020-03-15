@@ -1,0 +1,16 @@
+body{
+    background-color: salmon;
+}
+.header{
+    background-color:white;
+}.title{
+    text-align:center;
+}
+.ManagerCard{
+    background-color:yellow;
+    height:300px;
+    width:20%;
+}
+.cardTitle{
+    background-color:cyan;
+}
